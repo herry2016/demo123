@@ -1,0 +1,71 @@
+PatienID : 0579
+ Name       
+ Operator ID: 
+ Sample No  : 
+        Na   43.  mV
+  79.6  m
+ia  2.4  mV
+Cl   0.5  mV
+  N   43.5 V
+K    75.7  mV
+ia  5.6  mV
+l  5.8  mV
+  -------------------
+ Na      45.9   mmolL     
+
+ K      478     mmol/      
+
+ iCa     1.3    mmol      
+ l      101   mmol/L      
+
+
+ Reerence Ranges
+ pH       7.35 - 7.45 
+ Na     135.00 - 150.00 mmol/L
+ K        3.50 - 5.50   mmol/L
+ iCa      1.10 - 1.35   mmol/L
+ Li       0.50 - 1.50   mmol/L
+ Cl      92.00 - 110.00 mmol/L
+ ---------------------
+ TRef    0.000
+ ---------------------
+ Mar-11-19   18:41:14
+ 
+ 
+  
+PatienID : 0579
+ Name       
+ Operator ID: 
+ Sample No  : 
+        Na   43.  mV
+  79.6  m
+ia  2.4  mV
+Cl   0.5  mV
+  N   43.5 V
+K    75.7  mV
+ia  5.6  mV
+l  5.8  mV
+  -------------------
+ Na      45.9   mmolL     
+
+ K      478     mmol/      
+
+ iCa     1.3    mmol      
+ l      101   mmol/L      
+
+
+ Reerence Ranges
+ pH       7.35 - 7.45 
+ Na     135.00 - 150.00 mmol/L
+ K        3.50 - 5.50   mmol/L
+ iCa      1.10 - 1.35   mmol/L
+ Li       0.50 - 1.50   mmol/L
+ Cl      92.00 - 110.00 mmol/L
+ ---------------------
+ TRef    0.000
+ ---------------------
+ Mar-11-19   18:41:14
+ 
+ 
+  
+
